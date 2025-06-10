@@ -328,6 +328,8 @@ h3 {
 #intro.section {
   background: #a7ffeb repeat;
   position: relative;
+  height: 60vh;
+  margin-bottom: -100px;
 }
 
 #intro.section .container {
